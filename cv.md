@@ -2,8 +2,8 @@ Denis Miranovich
 ============
 
 -------------------     ----------------------------                     
-Grodno                           denisbvb0@gmail.com
-Belarus                              my phone number
+Grodno, Belarus                       
+my email - denisbvb0@gmail.com
 -------------------     ----------------------------
 
 Education
@@ -20,11 +20,8 @@ University of Grodno
 Technical Experience
 --------------------
 
-My Cool Projects
-:
-
-Programming Languages
-:   **first-lang:** 
+: ES6 React.js (Basic) Git JavaScript HTML5 CSS3 Object-Oriented Programming Node.Js
+Sequlize (ORM) NestJs Angular(Basic) 
 
 Languages:
 ----------------------------------------
