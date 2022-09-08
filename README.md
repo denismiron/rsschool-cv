@@ -1,2 +1,2 @@
 # rsschool-cv
-CV#1. Markdown &amp; Git
+https://denismiron.github.io/rsschool-cv/
