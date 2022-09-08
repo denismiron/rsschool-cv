@@ -19,9 +19,18 @@ University of Grodno
 
 Technical Experience
 --------------------
-
-: ES6 React.js (Basic) Git JavaScript HTML5 CSS3 Object-Oriented Programming Node.Js
-Sequlize (ORM) NestJs Angular(Basic) 
+*Digital Skills:
+    *ES6 
+    *React.js (Basic) 
+    *Git 
+    *JavaScript 
+    *HTML5 
+    *CSS3 
+    *Object-Oriented Programming 
+    *Node.Js
+    *Sequlize (ORM) 
+    *NestJs 
+    *Angular(Basic) 
 
 Languages:
 ----------------------------------------
